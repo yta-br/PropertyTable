@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @4 @39)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Commands" />
+    <Node Id="(@1 @2 @4 Member=Terminate)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Terminate" />
+    <Node Id="(@1 @2 @6 Member=get_Color)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Color" />
+    <Node Id="(@1 @2 @6 Member=get_EndPoint)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_EndPoint" />
+    <Node Id="(@1 @2 @6 Member=get_Entity)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Entity" />
+    <Node Id="(@1 @2 @6 Member=get_Layer)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Layer" />
+    <Node Id="(@1 @2 @6 Member=get_LineWeight)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_LineWeight" />
+    <Node Id="(@1 @2 @6 Member=get_Linetype)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Linetype" />
+    <Node Id="(@1 @2 @6 Member=get_StartPoint)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_StartPoint" />
+    <Node Id="(@1 @2 @8 Member=(Name=Dispose OverloadingParameters=[(@13 @14 Type=Boolean)]))" Category="CodeSchema_Method" CodeSchemaProperty_IsProtected="True" Label="Dispose" />
+    <Node Id="@11" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Expanded" Label="PropertyDataList" />
+    <Node Id="@12" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Expanded" Label="PropertyViewerPalette" />
+    <Node Id="@15" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Fill" />
+    <Node Id="@16" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="&lt;EntitySelect&gt;b__0" />
+    <Node Id="@19" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="EntitySelect" />
+    <Node Id="@20" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="SelectAcadObject" />
+    <Node Id="@21" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Color" />
+    <Node Id="@22" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_EndPoint" />
+    <Node Id="@23" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Entity" />
+    <Node Id="@24" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Handle" />
+    <Node Id="@25" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Layer" />
+    <Node Id="@26" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Linetype" />
+    <Node Id="@27" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_LineWeight" />
+    <Node Id="@28" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_StartPoint" />
+    <Node Id="@3" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Expanded" Label="PropertyDataList.&lt;&gt;c__DisplayClass1" />
+    <Node Id="@30" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="dataGridView_CellContentClick" />
+    <Node Id="@32" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="DocActivated" />
+    <Node Id="@33" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="dataGridView_SelectionChanged" />
+    <Node Id="@34" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="EntityModif" />
+    <Node Id="@35" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="ImpliedSelectionChanged" />
+    <Node Id="@37" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="ZoomWin" />
+    <Node Id="@38" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PropertyData" />
+    <Node Id="@40" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;&gt;c__DisplayClass1" />
+    <Node Id="@41" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PropertyDataGridView" />
+    <Node Id="@42" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PropertyDataList" />
+    <Node Id="@43" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PropertyViewerPalette" />
+    <Node Id="@44" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ClearSelection" />
+    <Node Id="@45" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Handle" />
+    <Node Id="@46" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Initialize" />
+    <Node Id="@47" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="InitializeComponent" />
+    <Node Id="@48" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="PropertyTable" />
+    <Node Id="@49" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Show" />
+    <Node Id="@5" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Expanded" Label="Commands" />
+    <Node Id="@7" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Expanded" Label="PropertyData" />
+    <Node Id="@9" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Expanded" Label="PropertyDataGridView" />
+  </Nodes>
+  <Links>
+    <Link Source="@11" Target="@15" Category="Contains" />
+    <Link Source="@11" Target="@19" Category="Contains" />
+    <Link Source="@11" Target="@20" Category="Contains" />
+    <Link Source="@11" Target="@3" Category="Contains" />
+    <Link Source="@11" Target="@34" Category="Contains" />
+    <Link Source="@11" Target="@35" Category="Contains" />
+    <Link Source="@11" Target="@37" Category="Contains" />
+    <Link Source="@11" Target="@42" Category="Contains" />
+    <Link Source="@12" Target="@43" Category="Contains" />
+    <Link Source="@12" Target="@49" Category="Contains" />
+    <Link Source="@12" Target="@9" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@15" Target="@34" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@15" Target="@35" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@15" Target="@38" Category="CodeSchema_Calls" />
+    <Link Source="@16" Target="@45" Category="CodeSchema_Calls" />
+    <Link Source="@19" Target="@16" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@19" Target="@3" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="CodeSchema_FunctionPointer" />
+    </Link>
+    <Link Source="@19" Target="@40" Category="CodeSchema_Calls" />
+    <Link Source="@20" Target="@37" Category="CodeSchema_Calls" />
+    <Link Source="@3" Target="@16" Category="Contains" />
+    <Link Source="@3" Target="@40" Category="Contains" />
+    <Link Source="@33" Target="@20" Category="CodeSchema_Calls" />
+    <Link Source="@34" Target="@15" Category="CodeSchema_Calls" />
+    <Link Source="@35" Target="@19" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@21" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@22" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@23" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@24" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@25" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@26" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@27" Category="CodeSchema_Calls" />
+    <Link Source="@38" Target="@28" Category="CodeSchema_Calls" />
+    <Link Source="@41" Target="@11" Category="References" />
+    <Link Source="@41" Target="@15" Category="CodeSchema_Calls" />
+    <Link Source="@41" Target="@42" Category="CodeSchema_Calls" />
+    <Link Source="@41" Target="@47" Category="CodeSchema_Calls" />
+    <Link Source="@46" Target="@32" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@46" Target="@43" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@30" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@47" Target="@33" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@48" Target="@49" Category="CodeSchema_Calls" />
+    <Link Source="@49" Target="@41" Category="CodeSchema_Calls" />
+    <Link Source="@49" Target="@44" Category="CodeSchema_Calls" />
+    <Link Source="@5" Target="(@1 @2 @4 @39)" Category="Contains" />
+    <Link Source="@5" Target="(@1 @2 @4 Member=Terminate)" Category="Contains" />
+    <Link Source="@5" Target="@12" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@5" Target="@32" Category="Contains" />
+    <Link Source="@5" Target="@46" Category="Contains" />
+    <Link Source="@5" Target="@48" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_Color)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_EndPoint)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_Entity)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_Layer)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_LineWeight)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_Linetype)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=get_StartPoint)" Category="Contains" />
+    <Link Source="@7" Target="@21" Category="Contains" />
+    <Link Source="@7" Target="@22" Category="Contains" />
+    <Link Source="@7" Target="@23" Category="Contains" />
+    <Link Source="@7" Target="@24" Category="Contains" />
+    <Link Source="@7" Target="@25" Category="Contains" />
+    <Link Source="@7" Target="@26" Category="Contains" />
+    <Link Source="@7" Target="@27" Category="Contains" />
+    <Link Source="@7" Target="@28" Category="Contains" />
+    <Link Source="@7" Target="@38" Category="Contains" />
+    <Link Source="@7" Target="@45" Category="Contains" />
+    <Link Source="@9" Target="(@1 @2 @8 Member=(Name=Dispose OverloadingParameters=[(@13 @14 Type=Boolean)]))" Category="Contains" />
+    <Link Source="@9" Target="@11" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@9" Target="@30" Category="Contains" />
+    <Link Source="@9" Target="@33" Category="Contains" />
+    <Link Source="@9" Target="@41" Category="Contains" />
+    <Link Source="@9" Target="@44" Category="Contains" />
+    <Link Source="@9" Target="@47" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Block" Label="Block" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Blocks" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_FunctionPointer" Label="Function Pointer" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Function Pointers" OutgoingActionLabel="Function Pointers" />
+    <Category Id="CodeSchema_Member" Label="Member" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" IsProviderRoot="False" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" IsProviderRoot="False" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_Statement" Label="Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Statement" />
+    <Category Id="CodeSchema_Type" Label="Type" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsCompilerGenerated" Label="IsCompilerGenerated" Description="IsCompilerGenerated" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="IsConstructor" Description="IsConstructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="IsPrivate" Description="IsPrivate" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsProtected" Label="IsProtected" Description="IsProtected" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="IsPublic" Description="IsPublic" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="IsSpecialName" Description="IsSpecialName" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.Progression.GraphModel.GroupStyle" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="Parent Type" ValueType="System.Object" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Strongly Connected" ToolTip="Node is part of a strongly coupled component" ValueLabel="Nodes">
+      <Condition Expression="IsStronglyConnected" />
+      <Setter Property="Stroke" Value="#D02030" />
+      <Setter Property="StrokeThickness" Value="2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Strongly Connected" ToolTip="Node is part of a strongly coupled component" ValueLabel="Links">
+      <Condition Expression="IsCircularLink" />
+      <Setter Property="Stroke" Value="#D02030" />
+      <Setter Property="StrokeThickness" Value="2" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#1C3068" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#4A65A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Type" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#D3DCEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Generics" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Generics')" />
+      <Setter Property="Background" Value="#FFA080A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(7cbf6bc6-79a1-4787-b090-067729b1cabd.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=PropertyTable" />
+    <Alias n="3" Id="(@1 @2 Type=(Name=&lt;&gt;c__DisplayClass1 ParentType=PropertyDataList))" />
+    <Alias n="4" Id="Type=Commands" />
+    <Alias n="5" Id="(@1 @2 @4)" />
+    <Alias n="6" Id="Type=PropertyData" />
+    <Alias n="7" Id="(@1 @2 @6)" />
+    <Alias n="8" Id="Type=PropertyDataGridView" />
+    <Alias n="9" Id="(@1 @2 @8)" />
+    <Alias n="10" Id="Type=PropertyDataList" />
+    <Alias n="11" Id="(@1 @2 @10)" />
+    <Alias n="12" Id="(@1 @2 Type=PropertyViewerPalette)" />
+    <Alias n="13" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll" />
+    <Alias n="14" Id="Namespace=System" />
+    <Alias n="15" Id="(@1 @2 @10 Member=(Name=Fill OverloadingParameters=[(@13 @14 Type=Boolean)]))" />
+    <Alias n="16" Id="(@1 @2 Type=(Name=&lt;&gt;c__DisplayClass1 ParentType=PropertyDataList) Member=(Name=&lt;EntitySelect&gt;b__0 OverloadingParameters=[@7]))" />
+    <Alias n="17" Id="(@13 @14 Type=String)" />
+    <Alias n="18" Id="OverloadingParameters=[@17]" />
+    <Alias n="19" Id="(@1 @2 @10 Member=(Name=EntitySelect @18))" />
+    <Alias n="20" Id="(@1 @2 @10 Member=(Name=SelectAcadObject @18))" />
+    <Alias n="21" Id="(@1 @2 @6 Member=(Name=set_Color @18))" />
+    <Alias n="22" Id="(@1 @2 @6 Member=(Name=set_EndPoint @18))" />
+    <Alias n="23" Id="(@1 @2 @6 Member=(Name=set_Entity @18))" />
+    <Alias n="24" Id="(@1 @2 @6 Member=(Name=set_Handle @18))" />
+    <Alias n="25" Id="(@1 @2 @6 Member=(Name=set_Layer @18))" />
+    <Alias n="26" Id="(@1 @2 @6 Member=(Name=set_Linetype @18))" />
+    <Alias n="27" Id="(@1 @2 @6 Member=(Name=set_LineWeight @18))" />
+    <Alias n="28" Id="(@1 @2 @6 Member=(Name=set_StartPoint @18))" />
+    <Alias n="29" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/System.Windows.Forms.dll" />
+    <Alias n="30" Id="(@1 @2 @8 Member=(Name=dataGridView_CellContentClick OverloadingParameters=[(@13 @14 Type=Object),(@29 Namespace=System.Windows.Forms Type=DataGridViewCellEventArgs)]))" />
+    <Alias n="31" Uri="Assembly=file:///C:/ObjectARX/inc/AcCoreMgd.dll" />
+    <Alias n="32" Id="(@1 @2 @4 Member=(Name=DocActivated OverloadingParameters=[(@13 @14 Type=Object),(@31 Namespace=Autodesk.AutoCAD.ApplicationServices Type=DocumentCollectionEventArgs)]))" />
+    <Alias n="33" Id="(@1 @2 @8 Member=(Name=dataGridView_SelectionChanged OverloadingParameters=[(@13 @14 Type=Object),(@13 @14 Type=EventArgs)]))" />
+    <Alias n="34" Id="(@1 @2 @10 Member=(Name=EntityModif OverloadingParameters=[(@13 @14 Type=Object),(@13 @14 Type=EventArgs)]))" />
+    <Alias n="35" Id="(@1 @2 @10 Member=(Name=ImpliedSelectionChanged OverloadingParameters=[(@13 @14 Type=Object),(@13 @14 Type=EventArgs)]))" />
+    <Alias n="36" Uri="Assembly=file:///C:/ObjectARX/inc/AcDbMgd.dll" />
+    <Alias n="37" Id="(@1 @2 @10 Member=(Name=ZoomWin OverloadingParameters=[(@31 Namespace=Autodesk.AutoCAD.EditorInput Type=Editor),(@36 Namespace=Autodesk.AutoCAD.Geometry Type=Point3d),(@36 Namespace=Autodesk.AutoCAD.Geometry Type=Point3d)]))" />
+    <Alias n="38" Id="(@1 @2 @6 Member=(Name=.ctor OverloadingParameters=[@17,@17,@17,@17,@17,@17,@17,@17]))" />
+    <Alias n="39" Id="Member=.ctor" />
+    <Alias n="40" Id="(@1 @2 Type=(Name=&lt;&gt;c__DisplayClass1 ParentType=PropertyDataList) @39)" />
+    <Alias n="41" Id="(@1 @2 @8 @39)" />
+    <Alias n="42" Id="(@1 @2 @10 @39)" />
+    <Alias n="43" Id="(@1 @2 Type=PropertyViewerPalette @39)" />
+    <Alias n="44" Id="(@1 @2 @8 Member=ClearSelection)" />
+    <Alias n="45" Id="(@1 @2 @6 Member=get_Handle)" />
+    <Alias n="46" Id="(@1 @2 @4 Member=Initialize)" />
+    <Alias n="47" Id="(@1 @2 @8 Member=InitializeComponent)" />
+    <Alias n="48" Id="(@1 @2 @4 Member=PropertyTable)" />
+    <Alias n="49" Id="(@1 @2 Type=PropertyViewerPalette Member=Show)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="7cbf6bc6-79a1-4787-b090-067729b1cabd.OutputPathUri" Value="file:///D:/My Projects/PropertyTable/bin/Debug/PropertyTable.dll" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>

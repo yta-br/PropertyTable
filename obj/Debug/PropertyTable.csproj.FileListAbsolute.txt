@@ -1,0 +1,24 @@
+D:\My Projects\PropertyTable\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\PropertyTable\obj\Debug\GenerateResource.read.1.tlog
+D:\My Projects\PropertyTable\obj\Debug\GenerateResource.write.1.tlog
+D:\My Projects\PropertyTable\bin\Debug\PropertyTable.dll
+D:\My Projects\PropertyTable\bin\Debug\PropertyTable.pdb
+D:\My Projects\PropertyTable\obj\Debug\PropertyTable.dll
+D:\My Projects\PropertyTable\obj\Debug\PropertyTable.pdb
+D:\My Projects\PropertyTable\obj\Debug\PropertyTable.PropertyDataGridView.resources
+D:\My Projects\PropertyTable(12)\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\PropertyTable(12)\obj\Debug\PropertyTable.PropertyDataGridView.resources
+D:\My Projects\PropertyTable(12)\obj\Debug\GenerateResource.read.1.tlog
+D:\My Projects\PropertyTable(12)\obj\Debug\GenerateResource.write.1.tlog
+D:\My Projects\PropertyTable(12)\obj\Debug\PropertyTable.dll
+D:\My Projects\PropertyTable(12)\bin\Debug\PropertyTable.dll
+D:\My Projects\PropertyTable(12)\bin\Debug\PropertyTable.pdb
+D:\My Projects\PropertyTable(12)\obj\Debug\PropertyTable.pdb
+E:\PropertyTable\bin\Debug\PropertyTable.dll
+E:\PropertyTable\bin\Debug\PropertyTable.pdb
+E:\PropertyTable\obj\Debug\ResolveAssemblyReference.cache
+E:\PropertyTable\obj\Debug\PropertyTable.PropertyDataGridView.resources
+E:\PropertyTable\obj\Debug\GenerateResource.read.1.tlog
+E:\PropertyTable\obj\Debug\GenerateResource.write.1.tlog
+E:\PropertyTable\obj\Debug\PropertyTable.dll
+E:\PropertyTable\obj\Debug\PropertyTable.pdb
